@@ -30,11 +30,18 @@ The project evaluates and compares four popular metaheuristic algorithms by runn
 - Differential Evolution (DE)
 - Genetic Algorithm (GA)
 - Simulated Annealing (SA)
+- H-PSO-GA (Hybrid PSO-GA)
+- C-BAT (Chaotic Bat Algorithm)
+- FA (Firefly Algorithm)
+- GWO (Grey Wolf Optimizer)
 
 ### Benchmark Functions
 - Sphere Function
 - Ackley Function
 - Rastrigin Function
+- Rosenbrock Function
+- Griewank Function
+
 
 All benchmarks are evaluated in **5 dimensions**.
 
